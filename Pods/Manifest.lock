@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Cosmos (17.0.0)
+  - Kingfisher (4.10.0)
+  - SideMenu (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cosmos
+  - Kingfisher
+  - SideMenu
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Cosmos
+    - Kingfisher
+    - SideMenu
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Cosmos: 309e489f21ffc91a1eeecfebef7f817cd2fcfba6
+  Kingfisher: 43c4b802d8b5256cf1f4379e9cd10b329be6d3e2
+  SideMenu: 87efd943737bb83aedf0358884d09fcf5576636d
+
+PODFILE CHECKSUM: a5a490beedf56c10ef9149d3b72b150e1c05ce57
+
+COCOAPODS: 1.5.2
